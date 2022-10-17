@@ -8,3 +8,14 @@ Basta você fazer o download do projeto e na pasta do seu projeto, rode no termi
 ```bash
  yarn install
 ```
+
+Depois você digita no terminal o seguinte comando:
+```bash
+ npx expo start
+```
+
+ou
+
+```bash
+ expo start
+```
